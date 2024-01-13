@@ -1,5 +1,7 @@
 # GitHub-Commits-Faker
 
+i will not update the project if it suddenly stops working it is not my problem
+
 ## Preview
 
 ![image](https://github.com/nici002018/Github-Commits-Faker/assets/105665457/25c2e899-95ae-4abb-a7d6-352f17eadd7b)
