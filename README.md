@@ -19,14 +19,30 @@ This project provides a script for generating fake GitHub commits for testing pu
 
 ## Setup
 
+# GitHub-Commits-Faker
+
+## Introduction
+
+This project provides a script for generating fake GitHub commits for testing purposes. Please note that using this code is at your own risk.
+
+## Prerequisites
+
+- Node.js (version 14-20.4)
+
+## Setup
+
 1. **Fork the repository:**
 
    Fork this repository to your own GitHub account. Click the "Fork" button at the top-right corner of this page.
 
-2. **Clone the forked repository:**
+2. **Clone the forked repository using Visual Studio Code:**
+
+   Open Visual Studio Code and click on the "View" menu, then select "Command Palette" (or use the shortcut `Ctrl+Shift+P`). Type "Git: Clone" and select it.
+
+   Enter the URL of your forked repository (replace `your-username` with your GitHub username):
 
    ```bash
-   git clone https://github.com/your-username/Github-Commits-Faker.git
+   https://github.com/your-username/Github-Commits-Faker.git
    ```
 2. Clone the repository:
     ```bash
